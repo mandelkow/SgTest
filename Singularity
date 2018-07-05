@@ -24,7 +24,7 @@ From: tensorflow/tensorflow:1.7.1-gpu-py3
 
     pip install --upgrade pip
     
-    pip install matplotlib numpy pandas scipy simplejson mne
+    pip install matplotlib numpy pandas scipy simplejson mne jupyterlab
 
 %environment
     export LC_ALL=C
